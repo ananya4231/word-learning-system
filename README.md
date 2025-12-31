@@ -103,3 +103,4 @@ human-in-the-loop learning scenarios.
 ```bash
 pip install -r requirements.txt
 uvicorn api:app --reload
+Run python -m uvicorn api:app --reload if not installed
